@@ -78,4 +78,4 @@ async def untrack(ctx, member: discord.Member):
             return
     await ctx.send(f"{member.display_name} is not being tracked.")    
 
-client.run("MTIxOTQ2MzA1MjU5NzEzMzM0NA.Gat6-e.wQN5zMd6XoF77e5C7nDO6aw-L41PF9cS9nUQRs")
+client.run("MTIxOTQ2MzA1MjU5NzEzMzM0NA.GEdd06.vlnYrHZjZj9mKblqCoVMtEZrYcxsxPRrz3gU0k")
